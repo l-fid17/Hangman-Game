@@ -9,11 +9,13 @@ pipenv install
 ```
 
 ## Usage
+Activate the env
+
 ```bash
 pipenv shell
 ```
 
-and
+and run the game
 
 ```bash
 python main.py
